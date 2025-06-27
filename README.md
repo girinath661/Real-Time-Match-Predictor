@@ -171,20 +171,18 @@ streamlit run app.py
 
 match_nomatch/
 
-│
+├── app.py                            # Streamlit app (upload missing)
 
-├── app.py                # Streamlit app
+├── run.py                            # CLI inference script
 
-├── run.py                # Inference Script
+├── weights.h5                        # Trained ANN model
 
-├── weights.h5             # Saved ANN model
+├── data.csv                          # Synthetic dataset
 
-├── data.csv              # Synthetic dataset
+├── requirements.txt                  # Python dependencies
 
-├── requirements.txt
+├── Hyperparameter Tuning.ipynb       # Optuna-based tuning
 
-├── README.md
+├── Unsupervised_Learning_Based_Approach.ipynb  # KMeans + ANN approach
 
-├── 200w.gif
-
-└── icegif-1020.gif
+├── Rule_Based_Approach.ipynb         # Rule-based baseline
