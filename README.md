@@ -75,7 +75,7 @@ This project involves the development of an Artificial Neural Network (ANN) to p
 - 🔮 Predicts match outcome with a confidence score
 - 🧠 Supports real-time model training
 
-**💻 Hugging Face Demo:** https://huggingface.co/spaces/Naveenvodnala/Match_NoMatch
+**💻 Hugging Face Demo:** https://huggingface.co/spaces/girinath6661/Match_or_no_match?logs=container
 
 ```
 streamlit run app.py
@@ -148,7 +148,7 @@ Used Optuna for tuning with:
 
 ### 1️⃣ Clone the Repository:
 ```
-git clone https://github.com/yourusername/match-prediction-ann.git
+git clone https://github.com/girinath661/Real-Time-Match-Predictor.git
 cd match-prediction-ann
 ```
 ### 2️⃣ Install Dependencies:
